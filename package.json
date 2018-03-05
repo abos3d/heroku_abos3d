@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abos3d/heroku_abos3d/issues"
   },
-  "homepage": "https://github.com/abos3d/heroku_abos3d#readme"
+  "homepage": "https://github.com/abos3d/heroku_abos3d#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
