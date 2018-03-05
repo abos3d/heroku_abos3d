@@ -4,9 +4,7 @@
   "description": "hello world",
   "main": "helloWolrd.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node helloWolrd.js"
-
   },
   "repository": {
     "type": "git",
