@@ -1,0 +1,19 @@
+{
+  "name": "heroku_abos3d",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "helloWolrd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://abos3d@github.com/abos3d/heroku_abos3d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abos3d/heroku_abos3d/issues"
+  },
+  "homepage": "https://github.com/abos3d/heroku_abos3d#readme"
+}
