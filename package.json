@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "hello world",
   "main": "helloWolrd.js",
-  
+  "scripts": {
+    "start": "node helloWolrd.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://abos3d@github.com/abos3d/heroku_abos3d.git"
